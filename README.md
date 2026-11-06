@@ -46,7 +46,22 @@ The app opens at http://localhost:8501.
 > Run it with `streamlit run app.py`, not `python app.py`.
 
 ## Screenshots
-Add screenshots here (e.g. `![Overview](screenshots/overview.png)`).
+
+### Code
+![Code](screenshots/code.png)
+
+### Overview
+![Overview](screenshots/app_screenshot_1.png)
+
+### Charts
+![Charts](screenshots/app_screenshot_2.png)
+
+### Explore
+![Explore](screenshots/app_screenshot_3.png)
+
+### Recommendation
+![Recommendation](screenshots/app_screenshot_4.png)
+
 
 ## Author
 Your Name · [GitHub](https://github.com/<your-username>)
